@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @skneha9976
-- 👀 I’m interested in Frontend development
+- 👋 Hi, I’m Shaikh Neha
+- 👀 I’m interested in Frontend developer
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me skneha9976@gmail.com
